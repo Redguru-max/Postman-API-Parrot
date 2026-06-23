@@ -100,9 +100,6 @@ You have Chrome `version 88` or later or firefox `version 42` or later.
 
 5. open `dist.firefox` folder in `about:debugging > This firefox > Load temporary Add-on..`.
 
-6. you should see extension in Add on toolbar, click the extension item. 
-
-    <img style="display:block" src="./screenshots/firefox_add_on_toolbar.png" />
 
 
 ### Note 
